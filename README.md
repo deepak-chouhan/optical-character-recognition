@@ -1,5 +1,5 @@
 # Optical Character Recognition
 
-optical character recognition using easyocr
+Optical character recognition with the help of easyocr
 
 ![](./result.png)
